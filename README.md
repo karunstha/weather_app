@@ -29,10 +29,10 @@ API_KEY=your_api_key_here
 ## Libraries Used
 
 - [http](https://pub.dev/packages/dio) - For making HTTP requests
-- [intl](https://pub.dev/packages/flutter_bloc) - For state management
-- [intl](https://pub.dev/packages/google_fonts) - For fonts
-- [intl](https://pub.dev/packages/get_it) - For service locator
-- [intl](https://pub.dev/packages/flutter_dotenv) - For env file
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc) - For state management
+- [google_fonts](https://pub.dev/packages/google_fonts) - For fonts
+- [get_it](https://pub.dev/packages/get_it) - For service locator
+- [flutter_dotenv](https://pub.dev/packages/flutter_dotenv) - For env file
 - [intl](https://pub.dev/packages/intl) - For formatting dates
 - [flutter_svg](https://pub.dev/packages/flutter_svg) - For displaying SVG icons
 
